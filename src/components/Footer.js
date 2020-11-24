@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <React.Fragment>
-    <div className="icons">
+    <div className="footer">
       <img src='/icon1.png' />  
       <img src='/icon2.png' />
       <img src='/icon3.png' />
